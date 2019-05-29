@@ -1,0 +1,23 @@
+{
+  "name": "mysql-api",
+  "version": "1.0.0",
+  "description": "node-mysql-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrocodes/node-mysql-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandrocodes/node-mysql-api/issues"
+  },
+  "homepage": "https://github.com/leandrocodes/node-mysql-api#readme",
+  "dependencies": {
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
